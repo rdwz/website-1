@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 24">
-    <path d="M8 0h4v24H4z">
-        <animate attributeName="d" from="M10 0h4v24H10z" to="M8 0h4v24H4z" dur="2s" />
-    </path>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 24"><path d="M8 0h4v24H4z"><animate attributeName="d" dur="2s" from="M10 0h4v24H10z" to="M8 0h4v24H4z"/></path></svg>
